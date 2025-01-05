@@ -23,7 +23,8 @@ Un simple programme Python permettant de convertir des températures de Celsius 
 1. Installez les dépendances :
    ```bash
    pip install termcolor
-
+   ```bash
+   pip install python
 ## Améliorations possibles
 
 - Ajouter d'autres unités de température comme Rankine (°R) ou Réaumur (°Re) pour rendre le programme encore plus complet.
