@@ -46,6 +46,7 @@ Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
 ## 📄 Licence
 
-Ce projet est sous licence MIT.
+Ce projet est sous licence MIT. Consultez le fichier [LICENSE](./LICENSE) pour plus de détails.
 
-```Ce projet est sous licence MIT. Consultez le fichier LICENSE pour plus de détails.```
+Si vous utilisez, modifiez ou redistribuez ce code, vous **devez inclure une copie de la licence et mentionner l'auteur original : _Macraft_YT_**. Merci de respecter cette règle ! 😊
+
