@@ -18,7 +18,7 @@ Un simple programme Python permettant de convertir des températures de Celsius 
 - Python 3.x
 - [termcolor](https://pypi.org/project/termcolor/) pour ajouter des couleurs aux messages affichés dans le terminal.
 
-## Installation
+## 🚀Installation
 
 1. Installation de python :
    ```bash
@@ -26,7 +26,7 @@ Un simple programme Python permettant de convertir des températures de Celsius 
 2. Installation de termcolor :
    ```bash
    pip install termcolor
-## Améliorations possibles
+## ✨Améliorations possibles
 
 - Ajouter d'autres unités de température comme Rankine (°R) ou Réaumur (°Re) pour rendre le programme encore plus complet.
 - Passer d'une interface en ligne de commande à une interface graphique (par exemple avec Tkinter ou PyQt), ce qui permettrait de rendre le programme plus accessible et visuellement attractif.
@@ -34,7 +34,7 @@ Un simple programme Python permettant de convertir des températures de Celsius 
 - Permettre à l'utilisateur de convertir une liste de températures (par exemple depuis un fichier texte ou CSV) en une seule opération.
 - Ajouter des tests unitaires pour vérifier que les fonctions de conversion et autres parties du programme fonctionnent correctement. Utiliser un outil comme pytest pour faciliter l'ajout et l'exécution des tests.
 - Rendre la gestion des erreurs plus robuste, par exemple en prévoyant des entrées erronées pour d'autres aspects du programme, comme le choix de l'unité de conversion.
-## Contribution
+## 🤝Contribution
 
 Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 
@@ -44,7 +44,7 @@ Si vous souhaitez contribuer à ce projet, veuillez suivre ces étapes :
 4. Poussez vos modifications (`git push origin feature/ma-fonctionnalité`).
 5. Ouvrez une pull request.
 
-## Licence
+## 📄Licence
 
 Ce projet est sous licence MIT.
 
