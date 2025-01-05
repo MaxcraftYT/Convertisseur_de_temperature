@@ -20,22 +20,9 @@ Un simple programme Python permettant de convertir des températures de Celsius 
 
 ## Installation
 
-1. Clonez ce dépôt sur votre machine locale :
-
-   ```bash
-   git clone https://github.com/MaxcraftYT/Convertisseur-de-Temp-rature.git
-
-2. Accédez au répertoire du projet :
-   ```bash
-   cd Convertisseur-de-Temp-rature
-
-3. Installez les dépendances :
+1. Installez les dépendances :
    ```bash
    pip install termcolor
-
-4. Lancez le jeu :
-   ```bash
-   python Convertisseur.py
 
 ## Améliorations possibles
 
