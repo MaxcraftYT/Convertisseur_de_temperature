@@ -23,6 +23,7 @@ Un simple programme Python permettant de convertir des températures de Celsius 
 1. Installez les dépendances :
    ```bash
    pip install termcolor
+‎ 
    ```bash
    pip install python
 ## Améliorations possibles
