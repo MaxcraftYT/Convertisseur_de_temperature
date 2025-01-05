@@ -1,5 +1,9 @@
 # Convertisseur de température
 
+![Version](https://img.shields.io/badge/version-1.0.0-blue)
+![Licence](https://img.shields.io/badge/licence-MIT-green)
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+
 ## Description
 
 Un simple programme Python permettant de convertir des températures de Celsius à Fahrenheit et Kelvin avec des animations et une interface utilisateur colorée.
